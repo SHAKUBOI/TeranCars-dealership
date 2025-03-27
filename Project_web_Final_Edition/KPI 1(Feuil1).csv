@@ -1,0 +1,16 @@
+Colonne1;Colonne2;Colonne3;Colonne4;Colonne5;Colonne6;Colonne7;Colonne8
+KPI DE COÛT;"""Budget respecté : Écarts entre le budget initial et les dépenses réelles.";;;;;;
+Coût par composant : Dépenses pour les serveurs; hébergement; certificats SSL; et autres infrastructures techniques.;;;;
+Coût de maintenance :Évaluation des frais pour la surveillance;" mises à jour et support technique du site.""";;;;;;
+KPI DE DELAI;"""Respect du planning : Comparaison entre le planning prévu et l’avancement réel des livrables ("; configuration; sécurité).;;;;
+Durée d’installation : Temps nécessaire pour déployer et configurer le site internet;;;;;;;
+"Délai de résolution des incidents : Temps moyen pour identifier et corriger une panne du site""";;;;;;;
+KPI DE PRODUCTIVITE;Disponibilité du site:Taux de disponibilité et temps de réponse du site pour assurer une bonne expérience utilisateur.                                                                                                                                                      ;;;;;;
+Nombre de transactions traitées:Volume de ventes et d'interactions réussies sur la plateforme.;;;;;;;
+KPI DE STISFACTION DES PARTIES PRENANTES;"""Feedback des clients	:Évaluation de la satisfaction des acheteurs et vendeurs via avis et enquêtes.";;;;;;
+"Satisfaction des équipes internes	:Retours des équipes de support";" marketing et technique sur l'utilisation et l'efficacité du site.""";;;;;;
+KPI DE RISQUE;"""Nombre de tentatives de fraude détectée: Suivi des fraudes (paiements"; annonces frauduleuses; faux comptes).;;;;
+"Temps de réponse aux incidents de sécurité:Durée nécessaire pour identifier et résoudre une faille ou une attaque.""";;;;;;;
+Autres KPI spécifiques;"""Taux de pannes / interruptions:Nombre et durée des interruptions du site.";;;;;;
+Respect des normes RGPD et légales:Vérification du respect des lois sur la protection des données et transactions en ligne.;;;;;;;
+Nombre de litiges et réclamations:Nombre de plaintes liées aux achats;" paiements ou livraisons.""";;;;;;
